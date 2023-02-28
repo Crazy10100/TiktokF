@@ -15,7 +15,7 @@ pkg update
 
 🥱pip install mechanize
 
-👍git clone https://github.com/Crazy10100/tik.py
+👍git clone https://github.com/Crazy10100/TiktokF
 
 🥺ls
 
